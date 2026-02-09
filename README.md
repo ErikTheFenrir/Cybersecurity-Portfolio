@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 **Aspiring Penetration Tester & Security Analyst**  
-Sverige | GitHub: [din-github]  
+Sverige
 
 ## Om mig
 Hands-on cybersecurity-entusiast som lär genom praktiska labs på HackTheBox, TryHackMe och PortSwigger. Fokus på penetration testing, web security och network reconnaissance. Förberedelse för SC-900, Security+ och CISSP. Erfarenhet med Python-scripting för automation och verktyg som Nmap, Burp Suite, Metasploit.
